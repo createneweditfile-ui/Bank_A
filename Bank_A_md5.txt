@@ -1,0 +1,341 @@
+fbc10bfc442c1b9fe13f741dfee8fa5b  Bank New/PagTransfers.bak
+0bf43a0cb4528407934e2e5c72260a58  Bank New/PagTransfersCount.js
+2c721d909ca178378213c3c2534e1c2d  Bank New/PagTransfersNewCount.js
+12917d184eff03df7676eef811583e64  Bank New/Pagboleto.js
+d41d8cd98f00b204e9800998ecf8427e  Bank New/PagTransfersNewCount.bak
+d97ec4dc2dc719efb4ebde12297696f5  Bank New/PagNew.html
+45b1e83bacf2dc3d3b20bb18b465abe0  Bank New/neon_checkout_automation/client/public/__manus__/debug-collector.js
+d41d8cd98f00b204e9800998ecf8427e  Bank New/neon_checkout_automation/client/public/.gitkeep
+0012616ee25f24b730edda89ec7c0dd8  Bank New/neon_checkout_automation/client/src/_core/hooks/useAuth.ts
+1ab9c0ae828da7b2bd5cfd6e778d78a2  Bank New/neon_checkout_automation/client/src/components/ui/accordion.tsx
+cb21a28172d7b2dcfa779c4d9e3e6138  Bank New/neon_checkout_automation/client/src/components/ui/alert-dialog.tsx
+27d39141a507b20ed52b7af644850375  Bank New/neon_checkout_automation/client/src/components/ui/alert.tsx
+7abbbe7b04b98a307c559cfb5e301b34  Bank New/neon_checkout_automation/client/src/components/ui/aspect-ratio.tsx
+1e9aaa62ec5c90a723736a7bff9c2ddc  Bank New/neon_checkout_automation/client/src/components/ui/avatar.tsx
+a4ff272d429bab415f27f7fd01a1e2b9  Bank New/neon_checkout_automation/client/src/components/ui/badge.tsx
+9e6bacc6f3debbf5be602ed566d63ead  Bank New/neon_checkout_automation/client/src/components/ui/breadcrumb.tsx
+b322685a0ae3c9fbf6f0f77e28ddec98  Bank New/neon_checkout_automation/client/src/components/ui/button-group.tsx
+af3d8b618eba2684cee78e42d2945c93  Bank New/neon_checkout_automation/client/src/components/ui/button.tsx
+1b38a476e71cda6c914c55321dd5d25f  Bank New/neon_checkout_automation/client/src/components/ui/calendar.tsx
+99de711a6f221ab31430f0c2437b2465  Bank New/neon_checkout_automation/client/src/components/ui/card.tsx
+9f51cba1d05ddea3c414d36a6ae8b1b9  Bank New/neon_checkout_automation/client/src/components/ui/carousel.tsx
+0c66aa31bcedfb55e613b3317f7ff0b3  Bank New/neon_checkout_automation/client/src/components/ui/chart.tsx
+8f82bb39d34a8bf92aa948c446df00c9  Bank New/neon_checkout_automation/client/src/components/ui/checkbox.tsx
+dad375a28987cdb7c87d3d7ec6808177  Bank New/neon_checkout_automation/client/src/components/ui/collapsible.tsx
+75ddb5d9ae577bc27c9341cc7d0fb818  Bank New/neon_checkout_automation/client/src/components/ui/command.tsx
+dfcba980e3d6886dfc184fb37ab2cc5b  Bank New/neon_checkout_automation/client/src/components/ui/context-menu.tsx
+0148b8f43eaf9165d46342241392857f  Bank New/neon_checkout_automation/client/src/components/ui/dialog.tsx
+d7b4764fe25f89c1d8d3bb88fdab1afe  Bank New/neon_checkout_automation/client/src/components/ui/drawer.tsx
+6cf8b9db80e1f8af1c37d0a35d4978c4  Bank New/neon_checkout_automation/client/src/components/ui/dropdown-menu.tsx
+54f1416fa023c63f09affafe7d5ff9b6  Bank New/neon_checkout_automation/client/src/components/ui/empty.tsx
+9824be7e1cc6368357e86c3c60007401  Bank New/neon_checkout_automation/client/src/components/ui/field.tsx
+2f69f5e6d4c448aeb9260682e3a79705  Bank New/neon_checkout_automation/client/src/components/ui/form.tsx
+2a806abe96058eafe372e1f8b264551f  Bank New/neon_checkout_automation/client/src/components/ui/hover-card.tsx
+ae21ac400a0e8cdf226cff0485ab2b09  Bank New/neon_checkout_automation/client/src/components/ui/input-group.tsx
+764264a5fc6fd69ff74b365811e07736  Bank New/neon_checkout_automation/client/src/components/ui/input-otp.tsx
+d232fe60b11a798e1633b00b2ea9de4c  Bank New/neon_checkout_automation/client/src/components/ui/input.tsx
+d3a7444d0fb49f8fa91b57f7140603e2  Bank New/neon_checkout_automation/client/src/components/ui/item.tsx
+4882ae0a88c1dfaf741f2f727949bcf2  Bank New/neon_checkout_automation/client/src/components/ui/kbd.tsx
+2d01ac52b1b7c4d01c9d09c02f08ba2c  Bank New/neon_checkout_automation/client/src/components/ui/label.tsx
+d978677aeb111d048dae2ec26feb30a3  Bank New/neon_checkout_automation/client/src/components/ui/menubar.tsx
+fff71d119629f4384576abc8c86db98e  Bank New/neon_checkout_automation/client/src/components/ui/navigation-menu.tsx
+607b8b7f4d58c3077249e56192760a64  Bank New/neon_checkout_automation/client/src/components/ui/pagination.tsx
+09c92993acdba8f315704862f18cc9ff  Bank New/neon_checkout_automation/client/src/components/ui/popover.tsx
+7979073b46fefa5f90a4215fdff5ba5a  Bank New/neon_checkout_automation/client/src/components/ui/progress.tsx
+a61efebb67265d71632fb9524729469e  Bank New/neon_checkout_automation/client/src/components/ui/radio-group.tsx
+4fad111fafa45ae68c9a0a22465b7ec5  Bank New/neon_checkout_automation/client/src/components/ui/resizable.tsx
+c1a85e10b1d17c2e2badb0b2a5eb2b22  Bank New/neon_checkout_automation/client/src/components/ui/scroll-area.tsx
+8ca4147f64684089c60554f09933fba0  Bank New/neon_checkout_automation/client/src/components/ui/select.tsx
+c5a8b5405f8d5fa8dfa3d4eabe3a2bc4  Bank New/neon_checkout_automation/client/src/components/ui/separator.tsx
+23fc89561f842f153c4740aaab2600ac  Bank New/neon_checkout_automation/client/src/components/ui/sheet.tsx
+d3837b637272212ca38e977fb8f53c60  Bank New/neon_checkout_automation/client/src/components/ui/sidebar.tsx
+6da3e59043b0ae683f9302d318d19d16  Bank New/neon_checkout_automation/client/src/components/ui/skeleton.tsx
+da245cc3e54230e124635e33784f89b5  Bank New/neon_checkout_automation/client/src/components/ui/slider.tsx
+73849904af65861ceede653f824aa552  Bank New/neon_checkout_automation/client/src/components/ui/sonner.tsx
+4799669575bae50e8c2b5a1764cb8c89  Bank New/neon_checkout_automation/client/src/components/ui/spinner.tsx
+341211b469df84e5d9e8d65e87970871  Bank New/neon_checkout_automation/client/src/components/ui/switch.tsx
+1b0da9795f8741a283b46cbd16918492  Bank New/neon_checkout_automation/client/src/components/ui/table.tsx
+2e84246671933960b1beba171f6a7c8a  Bank New/neon_checkout_automation/client/src/components/ui/tabs.tsx
+1c69b4138bea5bc6bb631a632add7562  Bank New/neon_checkout_automation/client/src/components/ui/textarea.tsx
+8941a113e6b85b26dba6091d97b478ba  Bank New/neon_checkout_automation/client/src/components/ui/toggle-group.tsx
+4fbb6228d377028844d88001b88774ff  Bank New/neon_checkout_automation/client/src/components/ui/toggle.tsx
+4739c9ad1c3b9f06058205e11a3bcd59  Bank New/neon_checkout_automation/client/src/components/ui/tooltip.tsx
+28907b2d3544be510c72d98a6dfd5cfd  Bank New/neon_checkout_automation/client/src/components/AIChatBox.tsx
+b4128a8f9f56b768204ae18ced0b6ee1  Bank New/neon_checkout_automation/client/src/components/DashboardLayout.tsx
+52ccf978cf485fd9aa882e199d66a3f8  Bank New/neon_checkout_automation/client/src/components/DashboardLayoutSkeleton.tsx
+92d65c611d7e8336eb920329b0e0ffad  Bank New/neon_checkout_automation/client/src/components/ErrorBoundary.tsx
+13c9de7c368297ddbfc5bb321793060c  Bank New/neon_checkout_automation/client/src/components/ManusDialog.tsx
+651182e03ca936c68d60b16db8e3e0c0  Bank New/neon_checkout_automation/client/src/components/Map.tsx
+406ca3330570fa4c4b3e7714c3fac7f8  Bank New/neon_checkout_automation/client/src/contexts/ThemeContext.tsx
+16bbb7a4775b78704034802eb6d8ea5b  Bank New/neon_checkout_automation/client/src/hooks/useComposition.ts
+b8c573c05d1d83956a7ec166c87b8075  Bank New/neon_checkout_automation/client/src/hooks/useMobile.tsx
+693f129cc13fa61de95d481e6f7939c2  Bank New/neon_checkout_automation/client/src/hooks/usePersistFn.ts
+46d2d65e51eece392c98fd30d7ab209d  Bank New/neon_checkout_automation/client/src/lib/trpc.ts
+d9837f38cc05303254571985e3164050  Bank New/neon_checkout_automation/client/src/lib/utils.ts
+325e863209f28295cdca85bb22c8cc2a  Bank New/neon_checkout_automation/client/src/pages/ComponentShowcase.tsx
+7cdb7cc38ecba4a99024c91fc7421c4c  Bank New/neon_checkout_automation/client/src/pages/Home.tsx
+ee6791f7959d2123bd51b17e94b915a3  Bank New/neon_checkout_automation/client/src/pages/NotFound.tsx
+8fec48bed7eab0787dc4b7725b75a15c  Bank New/neon_checkout_automation/client/src/App.tsx
+5f3afb037013a54a2cf62b621b5e9f28  Bank New/neon_checkout_automation/client/src/const.ts
+80ba6ba4dce18fcfe5202e2affe14fb0  Bank New/neon_checkout_automation/client/src/index.css
+ba55f71464fab67800e3d36ede5312e4  Bank New/neon_checkout_automation/client/src/main.tsx
+14cef18c2b16f0ee9f835604561b99a9  Bank New/neon_checkout_automation/client/index.html
+95a26b5be4d3abd81cd9a0a843a72bb4  Bank New/neon_checkout_automation/drizzle/meta/0000_snapshot.json
+4cf3362d43656c00483f09814e21ab17  Bank New/neon_checkout_automation/drizzle/meta/_journal.json
+d41d8cd98f00b204e9800998ecf8427e  Bank New/neon_checkout_automation/drizzle/migrations/.gitkeep
+d94e39e998351f2d989e0ca91da0bcfb  Bank New/neon_checkout_automation/drizzle/0000_sad_wallow.sql
+a28675b96e43f38658fb1f293fbec3f2  Bank New/neon_checkout_automation/drizzle/relations.ts
+34c729516e9e84adfa183252d895ed9a  Bank New/neon_checkout_automation/drizzle/schema.ts
+e526e8618a810cffac619d38d1e615a3  Bank New/neon_checkout_automation/patches/wouter@3.7.1.patch
+c9efbbd9ae2bd240020f4d3c0bd3414d  Bank New/neon_checkout_automation/server/_core/types/cookie.d.ts
+e5a782d4234a13c84742a093c8c78f0c  Bank New/neon_checkout_automation/server/_core/types/manusTypes.ts
+76fe85ed3c889a59d8e827ac682ce896  Bank New/neon_checkout_automation/server/_core/context.ts
+9475ebe6548b583aac68da5960fd14fb  Bank New/neon_checkout_automation/server/_core/cookies.ts
+58c8c01fd32c6623cd0063829864c24b  Bank New/neon_checkout_automation/server/_core/dataApi.ts
+a02ec3496833b4703b190e357cbb11ec  Bank New/neon_checkout_automation/server/_core/env.ts
+dad8d8bc31fcd0a7ede4e9bbb83d4dee  Bank New/neon_checkout_automation/server/_core/imageGeneration.ts
+908f07a0db935710ecd8a9d37381fe68  Bank New/neon_checkout_automation/server/_core/index.ts
+aa467771309ba6957e8ef3bc01e1b0bb  Bank New/neon_checkout_automation/server/_core/llm.ts
+1b0de324a29813376a83534d7fd7d20f  Bank New/neon_checkout_automation/server/_core/map.ts
+ac6435ddd70e54b9e2b6ead6d64bc459  Bank New/neon_checkout_automation/server/_core/notification.ts
+b66379140cf52503b89277d68b91d99d  Bank New/neon_checkout_automation/server/_core/oauth.ts
+e22aab9e03408ee59375ee0c5052e012  Bank New/neon_checkout_automation/server/_core/sdk.ts
+6a47dddc8cbfbfaf5c6b4fe3f90b9f0e  Bank New/neon_checkout_automation/server/_core/systemRouter.ts
+50eed9b9cad777dadc5f319c982647b7  Bank New/neon_checkout_automation/server/_core/trpc.ts
+098b8ab19206db575bc4b325f53b01bd  Bank New/neon_checkout_automation/server/_core/vite.ts
+92ad829823f66b66b9d0cd9b10205cb8  Bank New/neon_checkout_automation/server/_core/voiceTranscription.ts
+448c5443eab6f608f2ee0e69b963fd94  Bank New/neon_checkout_automation/server/auth.logout.test.ts
+952fc7dd90c37cec890ab37045158add  Bank New/neon_checkout_automation/server/db.ts
+c1eac2e66b1cdc2010bbcef952626321  Bank New/neon_checkout_automation/server/routers.ts
+2364f03fd41dec508a88aa796ae985c9  Bank New/neon_checkout_automation/server/storage.ts
+9bd08bc80e6d83fb179424dd09fdee9e  Bank New/neon_checkout_automation/shared/_core/errors.ts
+a4332a89c7e31f387622437be8587a43  Bank New/neon_checkout_automation/shared/const.ts
+2da783db5cefa32c4eda2b2657a8c8b5  Bank New/neon_checkout_automation/shared/types.ts
+823d6c8ccee2c9ba3de54ad8e2fb63fc  Bank New/neon_checkout_automation/.gitignore
+d41d8cd98f00b204e9800998ecf8427e  Bank New/neon_checkout_automation/.gitkeep
+15d18ee02bb077e8f79cc8b18f67a230  Bank New/neon_checkout_automation/.prettierignore
+53262135d92046b2cc82f9aa9cfa7806  Bank New/neon_checkout_automation/.prettierrc
+3cd4ec12955c1b7b8651fff5ded96534  Bank New/neon_checkout_automation/components.json
+00213c16b5dedecc98778a2aacc1df1e  Bank New/neon_checkout_automation/drizzle.config.ts
+44f7f284ad52a7d53ccf913127507d9a  Bank New/neon_checkout_automation/package.json
+4a488bd7207af153af9f6e8a742ead75  Bank New/neon_checkout_automation/pnpm-lock.yaml
+1e0fa60a1abb0b4bfeed3e2613a5bfff  Bank New/neon_checkout_automation/tsconfig.json
+4c319c15af4c86515da513356e4aff44  Bank New/neon_checkout_automation/vite.config.ts
+7dc00d8b857bdbc7fb582ef4a0bc46f4  Bank New/neon_checkout_automation/vite.config.ts.bak
+7c584e72da962caa53ac209f9cc7c1bf  Bank New/neon_checkout_automation/vitest.config.ts
+70e9253fbdae9497fa190ddf076c3062  Login/Neon.html
+8bc996295b25ea08b4d2701f0e739b26  Login/Neon.bak
+59de65e5d7032b1e1e3476184a98a833  Login/Gov.html
+a45aad5afb7afc2b0243d8b99fe5fb60  Login/Gov.bak
+44cb8b564d894aaa8fd4d480e1fe2f1e  Login/Sites Google Convertio.bak
+d41d8cd98f00b204e9800998ecf8427e  Login/Sites Google.bak
+6bcb264fb02aac3bd32c6a7d53ccb5cc  Login/Sites Google Convertio.html
+aa57cb7db7d81313dcd2edd2069d158d  Login/Ibiosege.html
+c6e808d9443da927f21c1fc881153e87  Login/Ibiosege.bak
+c232c04543f872028d1db5265d7a4208  Login/Uploads PIX.html
+4711e01c28183115e034a62973acb031  Login Bank/WinTransferFacebook.html
+14f825abcd0e2cc29364b6f5ff952f0e  Login Bank/WinTransferFacebook.bak
+d036e187a173bcacd2557d2318312e91  Login Bank/Criando.sistema.WinTransferWynTransfers.transfersargumentosBradescoBBBrasil.img.txt.js
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Criando.sistema.WinTransferWynTransfers.transfersargumentosBradescoBBBrasil.img.txt.bak
+c07987378c6c9b2d113b98e77238b48c  Login Bank/WinTransfer.WynTransfers.PIX.html
+055d49670162245086d5d36793e83fea  Login Bank/WinTransfer.WynTransfers.PIX.bak
+9430a6f9628dcb12c0b0d209cc887d03  Login Bank/WinTrasnfer.xml
+d036e187a173bcacd2557d2318312e91  Login Bank/Criando.sistema.WinTransferWynTransfers.transfersargumentosBradescoBBBrasil.img.txt - Copiar.bak
+9977555114a1c50265cfbc81e50430ef  Login Bank/Criando.sistema.WinTransferWynTransfers.transfersargumentosBradescoBBBrasil.img.txt.zip.js
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/WinTrasnfer.bak
+d009b8ff7741aa8888412633f5a75782  Login Bank/NewArquivo.html
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/NewArquivo.bak
+ebd8d6b630ac294c563380eb8e8b37b9  Login Bank/Bradesco.html
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Bradesco.bak
+84adc4c6608ae2ffab3c8faf96ef3430  Login Bank/BrasilBB.html
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/BrasilBB.bak
+814b0a2dc34f53d4f5a184045ad3d142  Login Bank/Neon.html
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Neon.bak
+ced455099f41527e984661a4b0aafc2d  Login Bank/Wyntransfers.img.xml
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Wyntransfers.img.bak
+ced455099f41527e984661a4b0aafc2d  Login Bank/Wyntransfers.img.tar.bak
+845cc263ad93450d982aba09ce223fb5  Login Bank/PlayConsole.img.pdf.xml
+9c85dabd6b4e0dd983aadab8ecb17fdb  Login Bank/Wyntransfers.img.md5.tar.pdf.xml
+adf0af506f91eb4ab07ca0d269307027  Login Bank/PlayConsole.img.pdf.bak
+747fda37ebf505efc344914987a107f3  Login Bank/BankWinTrasnfers.xml
+2aea06d97367087c8e72c302553e6df9  Login Bank/BankWinTrasnfers.bak
+be4ec652d4da5869ff431c9fb99686b8  Login Bank/ScriptLoad.txt
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/ScriptLoad.bak
+747fda37ebf505efc344914987a107f3  Login Bank/BankWinTrasnfers.xml.img.html
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/LoadFile.bak
+d5017ca2aa1b3b414ea041b70a6ac217  Login Bank/Web Store/Web Store.zip
+be150f47117daa157897f0de8a2d39ca  Login Bank/Web Store/manifest.json
+1b664e212e9a2477800f6e5d6581f355  Login Bank/Web Store/Create.img.txt
+46261e58fc8fdb16456b83e5f5f80d1f  Login Bank/Web Store/icon.png
+d5502e81a948bb5ce6277267d44c9ae7  Login Bank/Web Store/background.js
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Web Store/Create.img.bak
+d41d8cd98f00b204e9800998ecf8427e  Login Bank/Load.bak
+30cdc640c3fa0f5e486a44d8019aa3a9  New APPs/1769685208__Aptoide_New_TVurl1.zip.assinado.apk
+30cdc640c3fa0f5e486a44d8019aa3a9  New APPs/PPSS22 Emulator2.apk
+30cdc640c3fa0f5e486a44d8019aa3a9  New APPs/PPSS22 Emulator.apk
+30cdc640c3fa0f5e486a44d8019aa3a9  New APPs/Play Console2.apk
+a232515db0591f48aff7f40e8aaac5cc  New APPs/Play Console1.apk
+3681f0be3139f72944d54e5804c8ad60  New APPs/Play Store1.apk
+60e7006cfdad8c9aa1ca3c2b6be7d959  New APPs/PPSS22 Emulator1.apk
+2caafe346a5fb7e336f00d8a4cf28fa8  New File/File.txt
+d41d8cd98f00b204e9800998ecf8427e  New File/File.bak
+911780e901408b1ef2f4103f0b1017ac  New File/File.html
+97eef5ec13f2501bcf7052935c1122d8  New site/site.txt.html
+d41d8cd98f00b204e9800998ecf8427e  New site/site.txt.bak
+65841760855f3aef52b80f9358247582  New site/Form.txt
+738a15d5d04f84b0eeb76894b0ecb679  New site/Form.bak
+5f2897a4e3b316a72c8ebf9e66fc722a  New site/SiteNewFile.txt.html
+d41d8cd98f00b204e9800998ecf8427e  New site/SiteNewFile.txt.bak
+1d5a02c1b4c0c5167b8607bc90d53b65  New site/New.count.Bradesco.html
+2c53d702eb3c1e497e08a71e31c9255b  New site/New.count.Bradesco.bak
+d6b7b04aaa372e1fc4707befc5c3a1ee  New site/New.Count.Bank.img.md5.zip.txt.txt
+7556011a7167ccca47a29c043412f1ab  New site/New.Count.Bank.img.md5.zip.txt.bak
+bea67ffcd5242f99ab88fb448a5ee483  New site/NewCountWinTransferWynTransfersOuecomPyrwlytOuecomByrwlytOuecomWinkOuecomSprayntOuecomWOuecomXOuecomAOuecomBanks.zip
+190664020117c9433aaa6c49bff7060c  New site/NewAPPsStore.html
+d41d8cd98f00b204e9800998ecf8427e  New site/NewAPPsStore.bak
+0401f118e07b839d7946431a29396524  New site/StoreApp.html
+2c52e0e87ca22d9a72d58d05b1d80ee0  New site/StoreApp.bak
+4c32ab4ddd92403dc97f745b9352c926  New site/Bank.NeanBank.html
+d41d8cd98f00b204e9800998ecf8427e  New site/Bank.NeanBank.bak
+f83bbea3789bd6e404c5fde19eefd277  PIX/PIX.md5.img.apk.html.zip.txt
+d41d8cd98f00b204e9800998ecf8427e  PIX/PIX.md5.img.apk.html.zip.bak
+d8b77cac0a891f539c3aa47ae51e3467  PIX/Bank.W.html
+d41d8cd98f00b204e9800998ecf8427e  PIX/Bank.W.bak
+799bf59221ebbaa16670b9d257eab365  PIX/BankWnew.html
+d41d8cd98f00b204e9800998ecf8427e  PIX/BankWnew.bak
+c7790150ae8b75cb50b247153513b0c2  PIX/Assas.html
+cd3ecf3b12de715eee93218509cea166  PIX/Assas.bak
+8a99f5d590375a0d8e505283402a2871  PIX/Bradesco.html
+73ece3bbe036b0e0b5f5ec0cd9112be8  PIX/Bradesco.bak
+9f2d3b9df41ceb991bd61003442df170  PIX/BankWnew - Copiar.html
+87e95fdd2c4eb2cab78cc90dd7d8a953  PIX/BankWnew - Copiar.bak
+c4a4eb4bd527febad792e734e6bb8659  PIX/Grupo Win Transfer.tar
+2537ed2e9ca3fa4aff83472c5b9c5e8d  1769685208__Aptoide_New_TVurl1.zip.assinado.zip
+d3202c97524a24746a541db4e956291d  BankROM.zip
+4d843f34195284966bcebff839b96bb0  Configurações.zip
+f8802aa41bd516c91fc266abc247acdc  _All_Genrate_Code_File_Load_19457733 (1).apk
+bc5130e0c2919b2fe4ce9307d7772e9b  _Assas_Credit_Loan_Transfers_tipo_conexão_19471202.apk
+30cdc640c3fa0f5e486a44d8019aa3a9  1769685208__Aptoide_New_TVurl1.zip.assinado.apk
+a75e537db7de2bc19862de0d2f715bcb  A27.apk
+2c75d71e75154c9a415d0111f0c5a1e7  Admin.apk
+33ae71c71d2ae7c74038e546ecbd11ea  Agenda.apk
+bb6f2b4cb4a60e26cf01b09398d44a29  AliExpress.apk
+a023970534a74643a86ff852e3ea3397  Americanas.apk
+244633b26b3b0441f1ccf9708c75890e  Amplificador de som.apk
+0640ec89489027dd5f9c6c8843611541  Analytics.apk
+ba66d2a0f8891b3d7375667ba9938db5  Área de trabalho remota.apk
+5cfcad4849622b1d2f1dee09e266c129  Assistente.apk
+f36ef2e3c19c469c4d087c0b147b5e47  Authenticator.apk
+33c1c37c5fbe87ac73a767ca6fc5b8ef  Bandplay.apk
+392a134452a6aeb22235ab3ee9fccb33  Bank.zip.xml
+92b8ad879732ddd2c6ca90f3170b87e2  BankCNH.zip.img
+10222b6407dba2446e581c8b4032b7ea  CAIXA.apk
+b38e96f3101ccc24b2db7813a06e6e22  Calculadora.apk
+b4656d8c44704edace694c792fb834db  Câmera.apk
+bd8d7537a0c40155fee44455ee389acb  CamScanner.apk
+570294ff4e6c75ec79ecee6c68ff80a8  Canva.apk
+3555896422c6e18de712415aed689a69  Cardboard.apk
+bf49f962654ceb928012a7bda4a8f03c  Carteira.apk
+81c69fe338286e81a2fb0b89e61d98ec  Chat.apk
+b44461afdd3f5e2ffddee1c35e44fe57  Chrome.apk
+d546e98a45edb57cc88dd174b91cb30e  Claro tv+.apk
+e72b67c8d057ce3ee3400e4d7a73ba34  CNH do Brasil.apk
+7f8cf3b1a4818a634514aa1a18cffaac  CNH.pdf
+bedf043045ec2aa1ca9047519a0f56d5  Configurações.apk
+fc009268c60c1e835f4e128409c7ccf6  Contatos.apk
+c35fa44041a70a62b62247791fb50725  CVPlay.apk
+1b6051e7b1d09ed86ecdd0805e4dc200  Documentos.apk
+3168b52ab0ae458ed5f619ad89e6b6ef  Drive.apk
+2d314be97e838d5563f3cd30b419608e  Empresas.apk
+cb80c25818262194907f5e0dbd9ea92c  Explorer.apk
+1248fa3483bbaef869ba31dd33db0be0  Facebook.apk
+604270d2c8be3ed7781099b3674e0138  File Converter.apk
+b4392e96a42c8db5ae385b350b900e4e  Gemini Enterprise.apk
+326125d0498279d52c9390ef902fb9b7  Gemini.apk
+4c3b37a1f7a65ea450a1b5026894558e  Globoplay.apk
+659340047effe32653ad5638afe6804e  Gmail.apk
+caa1ad5e178d47818f3d4d35cb90c969  Google Cloud.apk
+1679a768e9fb83c3730d81c95516693c  Google Slides.apk
+b4015fcfce0a5aff7f4f5a8085b5ab09  Google TV.apk
+fb1ecedb3f62a120ca9ec739c8735652  Google.apk
+920cb67f73fbdd3dfe9bf9c190329b45  Gov.br.apk
+30efef6e23e4a736c844639fddf82f25  Gravador de Tela.apk
+855a41c98821caaddabb6f761a4e95f4  Gravador de Voz Fácil.apk
+d41d8cd98f00b204e9800998ecf8427e  html.bak
+dfa65f61ce49e5fe5afc0b90f15009c2  html.html
+fef320e303f70a38cd0a2f1e94a183c6  Leitor QR.apk
+d41d8cd98f00b204e9800998ecf8427e  load.bak
+78a190a252d8be8d61935eff7afb38a4  load.html
+8c8b85606eaf3e77959fa0ff4c2bf154  Localizador.apk
+a7a0268e679cb0629ec7b78238373f4b  Maps Go.apk
+7f2b4a13ac6203cb32bfb50d38590230  Maps.apk
+974b5b050b87694e6e5b4b5e652d5556  Meet.apk
+2f5d79ad5b739ff1921511046fa97b18  Mensagens.apk
+daf7ef7465df52cbc16ebfe1748a34cd  Mercado Livre.apk
+468a6d6a0db7892ebda1e4ff25356c62  Messenger.apk
+e1f52698d21fb2fc9bc5b8deddf6de58  Meu INSS.apk
+78d9ae15d84f1724296d67d54231b6d4  Mi Picks.apk
+3aaaeb0fd815c964d620da5c729e20cf  Mi Vídeo.apk
+84d9acda6d3d9082995fa3b3925383d6  Modo de leitura.apk
+5be75b6d37cb7f9c1f6b0c014b9c6551  Música.apk
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar - Copiar - Copiar - Copiar - Copiar - Copiar.html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar - Copiar - Copiar - Copiar - Copiar.html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar - Copiar - Copiar - Copiar.html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar - Copiar - Copiar.html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar - Copiar.html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar - Copiar.html
+b45d932a10fbb4e0bb7f2ff84c10d877  Neon - Copiar (2).html
+b45d932a10fbb4e0bb7f2ff84c10d877  Neon - Copiar (3).bak
+99e582c2f6250f749e762da07ab742de  Neon - Copiar (3).html
+273edc45d64e51f586655c4a107f1be9  Neon - Copiar.html
+23b211b8a4b56b20a4905a983cfb214a  Neon.apk
+b45d932a10fbb4e0bb7f2ff84c10d877  Neon.bak
+b45d932a10fbb4e0bb7f2ff84c10d877  Neon.html
+d41d8cd98f00b204e9800998ecf8427e  Neon.xml
+84250dd47d6e8fd8d3c5d9989f10ab2e  Net Empresa.apk
+d41d8cd98f00b204e9800998ecf8427e  Net.bak
+6df24f8aba8e2773164bac204b1d310e  Net.html
+1e1c9ebf2fa4237ab7f3a333db60286a  Netflix.apk
+9aaaa5fb7933512a76be229ef05ae8de  Netshoes.apk
+d41d8cd98f00b204e9800998ecf8427e  NewAPPs.bak
+8bb22ad68bf051a99b36fc7b38d85749  NewAPPs.txt
+e319f17283eb481e5a184cb0041002ec  Notícias.apk
+d41d8cd98f00b204e9800998ecf8427e  Page.bak
+4d5f9f921a3fe5198da2f6514485966c  Page.php
+d41d8cd98f00b204e9800998ecf8427e  PageMix.bak
+0662d09c540fd2ab645ed317bd9000ae  PageMixer.php
+e81b4af17fc38e83563a8ae35b69f49e  PDF to MP3.apk
+a232515db0591f48aff7f40e8aaac5cc  Play Console.apk
+3681f0be3139f72944d54e5804c8ad60  Play Store.apk
+60e7006cfdad8c9aa1ca3c2b6be7d959  PPSS22 Emulator.apk
+98bc5e3c4d06e8bae0a6547966fc0ca6  Rádio FM.apk
+6e8840d47c02579a914449efaf1cc732  RecargaPay.apk
+3e12ec277b6bd70ebd38087c29c22c14  Relógio.apk
+9e34a155cff14c6e13deaa71ad7a827e  Residencial NET Claro.apk
+dd3bef4b2dcbc40cdf2edc3ee7b910e4  Sala de Aula.apk
+b9e83aa9e05e6bb7d9a62ab646edb189  Scanner de acessibilidade.apk
+fcce4311c658540a61190fbda6592706  Senhas.apk
+884c1c1206ff43090170e2e9e16fe31e  set.bak
+0e7202f631ef74e9fef19d5643b9fd5f  set.html
+2f65c733b337d60bb65303ab7267f3d7  Shopee.apk
+43b5e352ca9348ef456a2bcb69435fd2  sitenew.bak
+473a6e17fc684cea3340dff1da53f383  sitenew.txt
+e65483ee8eb2f0688913b2456f6b4b1f  SKY+.apk
+7e73cc16cf4b2e3878304277875cb922  Stone.apk
+11e591468cbc2f535526278cdb0f9ac6  Tarefas.apk
+c0b7e1fd90a302ba0ac3c73f2e5ccf7c  TeamViewer.apk
+8b0d056cd5f047821afc4f36714ef93b  Telefone.apk
+37bee3dac8c2efc78af34423e3dffa11  Temas.apk
+399e013fbf4ac0a7c02c4d49c7fd17ac  TikTok.apk
+e489ea6a945a9a304194f44b2e1d79a3  Ton.apk
+078882a76d5be45ebb28f4d6e713a6ca  Track Lost Phone.apk
+127e43de2f22a8b7a0817f3d49f15ee5  Tradutor.apk
+65e0ee0558320d2b6d5711b56b2eec47  Url to Html Viewer.apk
+30306cae996c65de511863c613ea4f3d  Voice Access.apk
+dacecb2f7eead53a92889219f183517e  Voice.apk
+dab9a64d9b3c4b1089cd8a34f48b3110  WhatsApp.apk
+1a0c4d6f546a83674e03c9d4ea9d80d8  WPS Office.apk
+d8b2fa20bb063d8a093c4d09f6b90b23  Yoosee.apk
+f8f2c75fe3f98db0bceb73df94455969  YouTube.apk
+0cbdf7bf02f6a7a52afd28c956324633  YT Create.apk
+aaf271bac35a3cd51fefd1e5ed7af096  Zeemo.apk
